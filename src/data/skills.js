@@ -11,11 +11,17 @@ export const SkillsData = [
         icon: <i class="devicon-css3-plain-wordmark colored"></i>,
       },
       {
-        name: "Javascript",
-        icon: <i class="devicon-javascript-plain colored"></i>,
+        name: "ReactJS",
+        icon: <i class="devicon-react-original colored"></i>,
       },
       {
-        name: "ReactJS",
+        name: "Bootstrap",
+        icon: <i class="devicon-bootstrap-plain"></i>
+        ,
+      },
+     
+      {
+        name: "ReactNative",
         icon: <i class="devicon-react-original colored"></i>,
       },
     ],

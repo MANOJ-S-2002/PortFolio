@@ -21,4 +21,15 @@ export const ProjectData = [
     github: "https://github.com/MANOJ-S-2002/weather-react-app",
     image: require("../assets/image/project2.png"),
   },
+  {
+    id: 3,
+    title: "TROS",
+    about:
+      "This is a react native project where customer can buy product after realtime trailing in their home itself. ",
+    tags: ["ReactNative","Map API" ],
+    // demo: "https://manojintern.000webhostapp.com/index.php",
+    github:
+      " https://github.com/MANOJ-S-2002/TROS",
+    // image: require("../assets/image/project1.png"),
+  },
 ];
