@@ -5,11 +5,17 @@
   padding: 12px 12px;
   position: relative;
   align-items: center;
+  /* background-color: rgb(74, 22, 218); */
+  
 }
 .menu {
   display: flex;
   flex: 1;
   justify-content: flex-end;
+  
+
+  
+  
 }
 .menu-icon {
   font-size: 24px;
@@ -17,14 +23,14 @@
 .mobile-menu {
   display: none;
 }
-.web-menu {
-  display: flex;
-}
+/* .web-menu {
+  display: flex; 
+} */
 .logo {
   display: flex;
 
   font-size: 36px;
-  color: rgb(65, 67, 236);
+  color: rgb(254, 255, 255);
   font-weight: 600;
 }
 @media only screen and (max-width: 720px) {

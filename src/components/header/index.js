@@ -6,10 +6,10 @@ function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="header">
-      <div className="logo">Portfolio</div>
+    <div className="header ">
+      <div className="logo ">Portfolio</div>
       <div className="menu">
-        <div className="web-menu">
+        <div className="web-menu col-7 justify-content-end ">
           <Web />
         </div>
 

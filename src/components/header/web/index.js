@@ -2,7 +2,7 @@ import React from "react";
 import "./web.css";
 function Web() {
   return (
-    <div className="web">
+    <div className="web d-flex justify-content-evenly ">
       <div className="web-option">
         <a href="#projects">
           <i class="fi-rr-edit-alt option-icon"></i>Projects

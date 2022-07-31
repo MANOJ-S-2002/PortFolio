@@ -7,9 +7,9 @@ import Separator from "../../common/separator";
 export default function Skills() {
   const data = SkillsData;
   return (
-    <div className="skills">
+    <div className="skills ">
       <Separator />
-      <label className="section-title">Skills</label>
+      <label className="section-title ">Skills</label>
       <div className="skills-container">
         {data.map((item) => {
           return (

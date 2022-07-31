@@ -16,10 +16,13 @@ export const SkillsData = [
       },
       {
         name: "Bootstrap",
-        icon: <i class="devicon-bootstrap-plain"></i>
-        ,
+        icon: <i class="devicon-bootstrap-plain"></i>,
       },
-     
+      {
+        name: "Android Studio",
+        icon: <i class="devicon-android-plain"></i>,
+      },
+
       {
         name: "ReactNative",
         icon: <i class="devicon-react-original colored"></i>,
@@ -31,11 +34,11 @@ export const SkillsData = [
     list: [
       {
         name: "PHP",
-        icon: <i class="devicon-php-plain colored"></i>,
+        icon: <i class="devicon-php-plain "></i>,
       },
       {
         name: "MYSQL",
-        icon: <i class="devicon-mysql-plain-wordmark colored"></i>,
+        icon: <i class="devicon-mysql-plain-wordmark "></i>,
       },
     ],
   },
