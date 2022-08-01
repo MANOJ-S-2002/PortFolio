@@ -4,15 +4,15 @@ export const SkillsData = [
     list: [
       {
         name: "HTML",
-        icon: <i class="devicon-html5-plain-wordmark colored"></i>,
+        icon: <i class="devicon-html5-plain-wordmark "></i>,
       },
       {
         name: "CSS",
-        icon: <i class="devicon-css3-plain-wordmark colored"></i>,
+        icon: <i class="devicon-css3-plain-wordmark"></i>,
       },
       {
         name: "ReactJS",
-        icon: <i class="devicon-react-original colored"></i>,
+        icon: <i class="devicon-react-original "></i>,
       },
       {
         name: "Bootstrap",
@@ -25,7 +25,7 @@ export const SkillsData = [
 
       {
         name: "ReactNative",
-        icon: <i class="devicon-react-original colored"></i>,
+        icon: <i class="devicon-react-original c"></i>,
       },
     ],
   },

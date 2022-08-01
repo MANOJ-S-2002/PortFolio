@@ -10,7 +10,7 @@ function About() {
           <span className="info-name ">MANOJ S</span><br /> I love experimenting
           with the web.
         </div>
-        <div className="about-photo">
+        <div className="about-photo bg-white rounded-5 ">
           <img
             src={require("../../../assets/image/PHOTO.png")}
             className="picture"

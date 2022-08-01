@@ -2,7 +2,7 @@ import React from "react";
 import "./project-card.css";
 function ProjectCard({ project }) {
   return (
-    <div className="project-card">
+    <div className="project-card ">
       <div className="project-info">
         <label className="project-title">{project.title}</label>
         <div className="project-links">
@@ -29,7 +29,7 @@ function ProjectCard({ project }) {
           })}
         </div>
       </div>
-      <img src={project.image} className="project-photo" alt="project" />
+      <img src={project.image} className="project-photo bg-white" alt="project" />
     </div>
   );
 }
